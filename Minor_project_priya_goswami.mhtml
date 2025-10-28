@@ -1,0 +1,201 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/index.html
+Subject: 
+Date: Tue, 28 Oct 2025 07:52:06 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--zvy8hR8dWhCKcEQcSDUytBULZ6QtqSbdX3QdYpqfgN----"
+
+
+------MultipartBoundary--zvy8hR8dWhCKcEQcSDUytBULZ6QtqSbdX3QdYpqfgN----
+Content-Type: text/html
+Content-ID: <frame-29BBFF5B0DB98F862BC4C8B7C13B8404@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/index.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link src=3D"stylesheet" type=3D"index.css" href=3D"http://127.0.=
+0.1:5500/index.css" <div=3D"" classname=3D"min-h-screen bg-gray-50 text-gra=
+y-900 p-6 md:p-12 font-sans">
+      </head><body><div classname=3D"max-w-4xl mx-auto">
+        <header classname=3D"mb-8">
+          <h1 classname=3D"text-3xl md:text-4xl font-bold text-center">Crea=
+te Single Page Application using ReactJS</h1>
+          <p classname=3D"text-center mt-2">Minor Project =E2=80=94 JMS Gro=
+up of Hapur</p>
+        </header>
+
+        <main classname=3D"space-y-6" ref=3D"{reportRef}">
+         =20
+          <section classname=3D"bg-white p-8 rounded-2xl shadow-md print:sh=
+adow-none print:rounded-none">
+            <div classname=3D"text-center">
+              <h2 classname=3D"text-2xl font-semibold">Project Cover Page</=
+h2>
+              <p classname=3D"mt-4">Project Name: <strong>Create Single Pag=
+e Application using ReactJS</strong></p>
+              <p>Institute Name: <strong>JMS Group of Hapur</strong></p>
+              <p>Submitted to: <strong>My job Grow</strong></p>
+              <p>Submitted by: <strong> PRIYA GIRI </strong></p>
+              <p>Date of submission: <strong>30/OCT/2025</strong></p>
+            </div>
+          </section>
+
+         =20
+          <section classname=3D"bg-white p-6 rounded-2xl shadow-md">
+            <h3 classname=3D"text-xl font-semibold">Acknowledgement</h3>
+            <p classname=3D"mt-3 leading-relaxed">
+              I hereby acknowledge that this project has been completed usi=
+ng my own efforts </p>
+            <p classname=3D"mt-3">Signature: PRIYA GIRI </p>
+          </section>
+           <section classname=3D"bg-white p-6 rounded-2xl shadow-md">
+            <h3 classname=3D"text-xl font-semibold">Project Overview</h3>
+            <p classname=3D"mt-3 font-medium">Description</p>
+            <p classname=3D"mt-2 leading-relaxed">
+              This Single Page Application (SPA) is built using ReactJS. Th=
+e application demonstrates core frontend concepts such as
+              component-based architecture, routing , state management, res=
+ponsive UI, and client-side
+              PDF export. The purpose of the application is to provide a te=
+mplate project that can be submitted as a minor project.
+            </p>
+            <div classname=3D"mt-4">
+              <p classname=3D"font-medium">Purpose</p>
+              <p classname=3D"leading-relaxed">To showcase a functional Rea=
+ct single-page application ready for submission as a final project.</p>
+            </div>
+
+            <div classname=3D"mt-4">
+              <p classname=3D"font-medium">Target Audience</p>
+              <p classname=3D"leading-relaxed">Students and instructors rev=
+iewing minor projects; beginners learning ReactJS.</p>
+            </div>
+
+            <div classname=3D"mt-4">
+              <p classname=3D"font-medium">Key Features</p>
+              <ul classname=3D"list-disc list-inside mt-2 leading-relaxed">
+                <li>Single Page layout with multiple sections (Cover, Ackno=
+wledgement, Description, Installation, Features, Deployment)</li>
+                <li>Client-side PDF export for generating the project PDF r=
+eport</li>
+                <li>Clean responsive design using Tailwind CSS (optional)</=
+li>
+                <li>Clear project structure and documentation</li>
+              </ul>
+            </div>
+
+            <div classname=3D"mt-4">
+              <p classname=3D"font-medium">Technologies Used</p>
+              <ul classname=3D"list-disc list-inside mt-2">
+                <li>ReactJS</li>
+                <li>Tailwind CSS (optional) or plain CSS</li>
+                <li>html2pdf.js for client-side export (optional)</li>
+              </ul>
+            </div>
+          </section>
+
+         =20
+          <section classname=3D"bg-white p-6 rounded-2xl shadow-md">
+            <h3 classname=3D"text-xl font-semibold">Installation &amp; Setu=
+p</h3>
+            <p classname=3D"mt-3 font-medium">Prerequisites</p>
+            <ul classname=3D"list-disc list-inside mt-2">
+              <li>Node.js (v16 or later recommended)</li>
+              <li>npm (v8 or later) or yarn</li>
+            </ul>
+
+            <div classname=3D"mt-3">
+              <p classname=3D"font-medium">Steps</p>
+              <ol classname=3D"list-decimal list-inside mt-2">
+                <li>Create React App : <code>npx create-react-app jms-react=
+-spa</code></li>
+                <li>Replace <code>src/App.jsx</code> with this component's =
+code and adjust <code>src/index.js</code> if necessary.</li>
+                <li>Install Tailwind or use plain CSS. Tailwind quick setup=
+ (CRA):</li>
+                <li classname=3D"ml-4 mt-2">
+                  <pre classname=3D"whitespace-pre-wrap text-sm"></pre>
+                </li>
+                <li classname=3D"mt-2">(Optional)  <code>npm install html2p=
+df.js</code></li>
+                <li classname=3D"mt-2">Run the app: <code>npm start</code><=
+/li>
+              </ol>
+            </div>
+          </section>
+          <section classname=3D"bg-white p-6 rounded-2xl shadow-md">
+            <h3 classname=3D"text-xl font-semibold">Features &amp; User Flo=
+w</h3>
+            <p classname=3D"mt-3 font-medium">Core Features</p>
+            <ul classname=3D"list-disc list-inside mt-2 leading-relaxed">
+              <li>Project Report Pages (Cover, Acknowledgement, Description=
+)</li>
+              <li>PDF Export / Print functionality</li>
+              <li>Responsive layout</li>
+              <li>Clear sectioned content suitable for PDF export</li>
+            </ul>
+
+            <div classname=3D"mt-4">
+              <p classname=3D"font-medium">User Flow</p>
+              <p classname=3D"leading-relaxed">
+                The user opens the SPA =E2=80=94 reads the Cover page, Ackn=
+owledgement, and Project Overview sections. If the user
+                wants a PDF, they click "Download Project PDF" which trigge=
+rs a client-side export of the report area. The user
+                then submits that PDF as their final project document.
+              </p>
+            </div>
+          </section>
+<section classname=3D"bg-white p-6 rounded-2xl shadow-md">
+            <h3 classname=3D"text-xl font-semibold">Project Structure</h3>
+            <p classname=3D"mt-3">A suggested directory layout for this pro=
+ject:</p>
+            <pre classname=3D"mt-2 bg-gray-100 p-3 rounded">{`jms-react-spa=
+/
+=E2=94=9C=E2=94=80 public/
+=E2=94=82  =E2=94=94=E2=94=80 index.html
+=E2=94=9C=E2=94=80 src/
+=E2=94=82  =E2=94=9C=E2=94=80 App.jsx         (this file)
+=E2=94=82  =E2=94=9C=E2=94=80 index.js       (ReactDOM render)
+=E2=94=82  =E2=94=9C=E2=94=80 index.css      (Tailwind or custom styles)
+=E2=94=82  =E2=94=94=E2=94=80 assets/         (images or other assets)
+=E2=94=9C=E2=94=80 package.json
+=E2=94=94=E2=94=80 README.md}
+            </pre>
+            <p classname=3D"mt-3">Explanation: Keep UI and documentation in=
+ <code>App.jsx</code> so export is straightforward. Split components into f=
+olders for larger apps.</p>
+          </section>
+
+       =20
+          <section classname=3D"bg-white p-6 rounded-2xl shadow-md">
+            <h3 classname=3D"text-xl font-semibold">Deployment</h3>
+            <p classname=3D"mt-3">Build</p>
+            <p classname=3D"leading-relaxed">To build the project for produ=
+ction:</p>
+            <pre classname=3D"mt-2 bg-gray-100 p-3 rounded">npm run build</=
+pre>
+            <p classname=3D"mt-3">Hosting Options</p>
+            <ul classname=3D"list-disc list-inside mt-2">
+              <li>GitHub Pages </li>
+              <code>build/</code> folder
+            </ul>
+          </section>
+
+         =20
+          <section classname=3D"bg-white p-6 rounded-2xl shadow-md">
+            <h3 classname=3D"text-xl font-semibold">Documentation &amp; Ref=
+erences</h3>
+            <p classname=3D"mt-3">References used while building this proje=
+ct include ReactJS official documentation youtube tutorials for better unde=
+rstanding of concept and frontend development.</p>
+         =20
+          </section>
+
+ =20
+
+
+</main></div></body></html>
+------MultipartBoundary--zvy8hR8dWhCKcEQcSDUytBULZ6QtqSbdX3QdYpqfgN------
